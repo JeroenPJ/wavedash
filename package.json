@@ -17,7 +17,7 @@
     "rails-erb-loader": "^5.5.2",
     "stimulus": "^1.1.0",
     "stimulus-tabs": "^1.0.4",
-    "three": "^0.121.1",
+    "three": "^0.125.0",
     "three.interaction": "^0.2.3"
   },
   "devDependencies": {
